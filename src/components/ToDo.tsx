@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/aria-role */
 /** @format */
 
 import React from 'react';
