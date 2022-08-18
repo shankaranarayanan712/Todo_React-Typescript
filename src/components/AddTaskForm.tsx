@@ -1,8 +1,4 @@
-/**
- * /* eslint-disable jsx-a11y/aria-role
- *
- * @format
- */
+/* eslint-disable jsx-a11y/aria-role */
 
 import React, { MouseEventHandler } from 'react';
 
